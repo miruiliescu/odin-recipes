@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of a web page containing relative links to three recipes. By the time I will have completed the project, I will have practiced and fixed a series of skills: tag lines for headers and paragraphs, adding relative links, adding images, creating ordered and unordered lists and commiting after every significant addition to the code.
